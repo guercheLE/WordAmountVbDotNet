@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WordAmount.Common\WordAmount.Common.vbproj" />
+    <ProjectReference Include="..\WordAmount.de\WordAmount.de.vbproj" />
+    <ProjectReference Include="..\WordAmount.enUS\WordAmount.enUS.vbproj" />
+    <ProjectReference Include="..\WordAmount.es\WordAmount.es.vbproj" />
+    <ProjectReference Include="..\WordAmount.fr\WordAmount.fr.vbproj" />
+    <ProjectReference Include="..\WordAmount.it\WordAmount.it.vbproj" />
+    <ProjectReference Include="..\WordAmount.ptBR\WordAmount.ptBR.vbproj" />
+  </ItemGroup>
+
+</Project>

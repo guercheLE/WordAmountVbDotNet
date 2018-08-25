@@ -1,0 +1,25 @@
+extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// <copyright file="%FileName%" company="Guerche TI">
+// Copyright (c) %CurrentYear% All Rights Reserved
+// </copyright>
+// <author>Luciano Evaristo Guerche</author>
+// <email>guercheLE@gmail.com</email>
+// <date>%CreationMonth% %CreationDay%/th, /%CreationYear% %CreationTime%</date>
+// <summary></summary>
+extensions: .aspx .ascx
+<%-- 
+Copyright (c) 2011 rubicon IT GmbH
+--%>
+extensions: .vb
+' <copyright file="%FileName%" company="Guerche TI">
+' Copyright (c) %CurrentYear% All Rights Reserved
+' </copyright>
+' <author>Luciano Evaristo Guerche</author>
+' <email>guercheLE@gmail.com</email>
+' <date>%CreationMonth% %CreationDay%/th, /%CreationYear% %CreationTime%</date>
+' <summary></summary>
+extensions:  .xml .config .xsd
+<!--
+Sample license text.
+-->
